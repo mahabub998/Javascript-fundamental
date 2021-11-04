@@ -10,4 +10,9 @@ const user = {
 
 // destructing
 let {id,name,age,education:{degree}} =  user;
-console.log(name)
+console.log(degree)
+// console.log(name)
+
+
+
+// Arry destrucuring
